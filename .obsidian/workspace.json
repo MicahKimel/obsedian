@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "default/10_hashcat.md",
+                "file": "default/11_Kerbrute.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "default/10_hashcat.md",
+                "file": "default/11_Kerbrute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "default/10_hashcat.md",
+                "file": "default/11_Kerbrute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "default/10_hashcat.md"
+                "file": "default/11_Kerbrute.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "e380108381117173",
   "lastOpenFiles": [
+    "default/10_hashcat.md",
+    "default/11_Kerbrute.md",
+    "default/4_file_search.md",
     "default/Windows.md",
     "default/100_Joomscan.md",
     "default/2_gobuster.md",
     "default/3_dirsearch.md",
-    "default/10_hashcat.md",
     "default/1_nmap.md",
     "combined.md",
     "Combine Files.md",
