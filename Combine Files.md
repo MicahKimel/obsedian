@@ -1,6 +1,6 @@
 
 ```
-cat default/*.md default/test/*.md > combined.md
+cat default/*.md default/Windows/*.md > combined.md
 ```
 
 

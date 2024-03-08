@@ -67,6 +67,27 @@ echo {hello,hi}
 ```
 docker run -it -v $(pwd):/mnt mcr.microsoft.com/dotnet/sdk:6.0 bash
 ```
+# Joomscan
+```
+joomscan --url http://joomdns.htb
+```
+
+# db files
+
+cat /etc/passwd
+/var/www/contact
+# hashcat
+
+- bcryp `$2*$` blowfish (unix)
+```
+hashcat -m 3200 -o cracked-hashes hashes /usr/share/wordlists/rockyou.txt
+```
+# cme smb
+- Get hostname (add hostname.domain & hostname to etc/hosts)
+```
+cme smb 10.10.11.187
+```
+
 # Kerbrute
 - Kerbrute
    - set sys date to domain date
@@ -104,26 +125,3 @@ docker run -it -v $(pwd):/mnt mcr.microsoft.com/dotnet/sdk:6.0 bash
    KRBSCCNAME=/home/accesstoken.ccache ./smbclient.py -k absolute.htb/user_goview@dc.absolute.htb -target -ip 10.10.11.181
      ```
    
-# Joomscan
-```
-joomscan --url http://joomdns.htb
-```
-
-# db files
-
-cat /etc/passwd
-/var/www/contact
-# hashcat
-
-- bcryp `$2*$` blowfish (unix)
-```
-hashcat -m 3200 -o cracked-hashes hashes /usr/share/wordlists/rockyou.txt
-```
-# Windows
-- Get hostname (add hostname.domain & hostname to etc/hosts)
-```
-cme smb 10.10.11.187
-```
-
-
-# Test
