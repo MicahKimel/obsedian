@@ -1,7 +1,6 @@
 
-````Shell  
-pandoc -s default/*.md -o combined.md
-pandoc combined.md -o combined.pdf
+```
+cat default/*.md default/test/*.md > combined.md
+```
 
-brew install pandoc
 

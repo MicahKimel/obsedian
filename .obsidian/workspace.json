@@ -11,11 +11,9 @@
             "id": "e380108381117173",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "default/4_file_search.md",
-                "mode": "source",
-                "source": false
+                "file": "combined.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "default/4_file_search.md",
+                "file": "combined.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "default/4_file_search.md",
+                "file": "combined.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "default/4_file_search.md"
+                "file": "combined.pdf"
               }
             }
           }
@@ -148,22 +146,25 @@
   },
   "active": "e380108381117173",
   "lastOpenFiles": [
-    "default/5_docker.md",
-    "default/4_file_search.md",
-    "default/Windows.md",
-    "default/1_nmap.md",
+    "combined.md",
+    "combined.pdf",
     "default/2_gobuster.md",
     "default/3_dirsearch.md",
-    "default/10_hashcat.md",
+    "default/4_file_search.md",
+    "default/5_docker.md",
+    "default/6_Kerbrute.md",
+    "default/9_dbfiles.md",
+    "default/9_Joomscan.md",
+    "default/Windows.md",
     "Combine Files.md",
-    "combined.md",
-    "default/101_dbfiles.md",
-    "default/100_Joomscan.md",
-    "default/11_Kerbrute.md",
+    "default/9_hashcat.md",
+    "default/test/Test.md",
+    "default/test",
+    "default/1_nmap.md",
+    "combined",
     "default/combined.md",
     "tmp",
     "default/tmp",
-    "combined.pdf",
     "default/Summary.md",
     "combined.rtf",
     "default/combined.rtf",
