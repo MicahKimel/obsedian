@@ -1,6 +1,6 @@
 
 ```
-cat default/*.md default/Windows/*.md > combined.md
+cat Enumeration/*.md default/*.md default/Windows/*.md > combined.md
 ```
 
 

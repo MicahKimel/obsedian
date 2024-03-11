@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "combined.md",
+                "file": "default/Windows/smb & winrm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "combined.md",
+                "file": "default/Windows/smb & winrm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "combined.md",
+                "file": "default/Windows/smb & winrm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "combined.md"
+                "file": "default/Windows/smb & winrm.md"
               }
             }
           }
@@ -148,22 +148,31 @@
   },
   "active": "e380108381117173",
   "lastOpenFiles": [
-    "default/Windows/CME SMB.md",
-    "combined.md",
-    "Combine Files.md",
-    "combined.pdf",
-    "default/Windows/Kerbrute.md",
-    "default/Windows/Test.md",
-    "default/2_gobuster.md",
-    "default/3_dirsearch.md",
+    "default/tcpdump.md",
+    "default/Windows/Untitled.md",
     "default/4_file_search.md",
-    "default/5_docker.md",
-    "default/9_dbfiles.md",
+    "default/Untitled",
+    "default/9_openssl.md",
     "default/9_Joomscan.md",
     "default/9_hashcat.md",
+    "default/9_dbfiles.md",
+    "default/5_docker.md",
+    "Combine Files.md",
+    "default/Enumeration/1_nmap.md",
+    "default/Enumeration",
+    "default/Enumeration/2_gobuster.md",
+    "default/Enumeration/3_dirsearch.md",
+    "default/Windows/Responder.md",
+    "default/Windows/smb & winrm.md",
+    "default/Windows/Kerbrute.md",
     "default/Windows",
-    "default/1_nmap.md",
-    "combined",
+    "combined.pdf",
+    "default/Windows.md",
+    "default/10_hashcat.md",
+    "combined.md",
+    "default/101_dbfiles.md",
+    "default/100_Joomscan.md",
+    "default/11_Kerbrute.md",
     "default/combined.md",
     "tmp",
     "default/tmp",
