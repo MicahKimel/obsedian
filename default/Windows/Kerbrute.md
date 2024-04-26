@@ -30,9 +30,14 @@
    ldapsearch -H ldap://dc.absolute.htb -Y GSSAPI -s base
 
    ldapsearch -H ldap://dc.absolute.htb -Y GSSAPI -b "cn=users,dc=absolute,dc=htb" "user" "description"
-     ```
+	
+  ldapsearch -h support.htb -D 'user@support.htb' - w 'password' -b 'c=support,dc=htb'
+	 ```
    - Kerbrute
    ```
    KRBSCCNAME=/home/accesstoken.ccache ./smbclient.py -k absolute.htb/user_goview@dc.absolute.htb -target -ip 10.10.11.181
      ```
-   
+   - see if you can create a machien
+ ```
+	Get-DomainObject -Identity 'DC=SUPPORT,DC=HTB' | select ms-ds-machineaccountquota
+```

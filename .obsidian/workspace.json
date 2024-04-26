@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "default/Windows/smb & winrm.md",
+                "file": "default/Windows/Kerbrute.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23e12156fecb1b02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "default/4_file_search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "default/Windows/smb & winrm.md",
+                "file": "default/4_file_search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "default/Windows/smb & winrm.md",
+                "file": "default/4_file_search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "default/Windows/smb & winrm.md"
+                "file": "default/4_file_search.md"
               }
             }
           }
@@ -146,11 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e380108381117173",
+  "active": "23e12156fecb1b02",
   "lastOpenFiles": [
-    "default/tcpdump.md",
-    "default/Windows/Untitled.md",
+    "default/Windows/Kerbrute.md",
     "default/4_file_search.md",
+    "default/Windows/Responder.md",
+    "default/Windows/smb & winrm.md",
+    "default/Windows/cmd commands.md",
+    "default/tcpdump.md",
     "default/Untitled",
     "default/9_openssl.md",
     "default/9_Joomscan.md",
@@ -162,9 +178,6 @@
     "default/Enumeration",
     "default/Enumeration/2_gobuster.md",
     "default/Enumeration/3_dirsearch.md",
-    "default/Windows/Responder.md",
-    "default/Windows/smb & winrm.md",
-    "default/Windows/Kerbrute.md",
     "default/Windows",
     "combined.pdf",
     "default/Windows.md",
